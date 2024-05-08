@@ -564,5 +564,5 @@ OUTPUT :
 
 RESULT :
 
-Thus the rail fence algorithm had been executed successfully
+Thus the rail fence algorithm had been executed successfully..
 
